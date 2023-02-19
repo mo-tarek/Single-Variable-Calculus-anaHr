@@ -1,6 +1,6 @@
 # Single Variable Calculus - anaHr
 
-Topics Covered : 
+**Topics Covered** : 
 ```Numbers``` ```Functions``` ```Limits``` ```Continuity``` ```Derivatives``` ```Integrals``` ```Trig Functions``` ```Exp/Log Functions```
 
 1. Intro 
