@@ -1,5 +1,8 @@
 # Single Variable Calculus - anaHr
 
+Topics Covered : 
+```Numbers``` ```Functions``` ```Limits``` ```Continuity``` ```Derivatives``` ```Integrals``` ```Trig Functions``` ```Exp/Log Functions```
+
 1. Intro 
 2. Properties of numbers 1 
 3. Properties of numbers 2 
